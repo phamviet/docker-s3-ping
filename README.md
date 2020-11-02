@@ -1,2 +1,2 @@
-# docker-printenv
-Simple docker image to return all available environment variables in json format.
+# docker-s3-ping
+Simple docker image to test S3 connectivity.
